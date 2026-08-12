@@ -9,7 +9,6 @@ html {
     scroll-behavior: smooth;
 }
 
-/* 🚀 ULTRA-MODERN TECHNOLOGY STREAM ANIMATED BACKGROUND */
 body {
     color: #ededed;
     background: #030712;
@@ -23,7 +22,7 @@ body {
     position: relative;
 }
 
-/* Futuristic Tech Grid Matrix Overlay */
+
 body::before {
     content: "";
     position: fixed;
@@ -39,7 +38,7 @@ body::before {
     z-index: -2;
 }
 
-/* Glowing Cyber Laser Beam Animation */
+
 body::after {
     content: "";
     position: fixed;
@@ -68,7 +67,7 @@ body::after {
     }
 }
 
-/* Header Section */
+
 .header {
     position: fixed;
     top: 0;
@@ -113,7 +112,7 @@ body::after {
     color: #0ef;
 }
 
-/* Home Section */
+
 .home {
     position: relative;
     width: 100%;
@@ -189,7 +188,7 @@ body::after {
     box-shadow: 0 0 20px #0ef;
 }
 
-/* Profile Picture Circle */
+
 .home-img .glowing-avatar,
 .about-img .glowing-avatar {
     position: relative;
@@ -234,7 +233,7 @@ body::after {
     box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan;
 }
 
-/* About Section */
+
 .about {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -333,7 +332,7 @@ body::after {
     color: #cfcfcf;
 }
 
-/* Skills Section */
+
 .skills-section {
     display: flex;
     flex-wrap: wrap;
@@ -366,7 +365,7 @@ body::after {
     margin-bottom: 30px;
 }
 
-/* Technical Bars */
+
 .Technical-bars .bar {
     margin: 20px 0;
 }
@@ -408,7 +407,7 @@ body::after {
 @keyframes animateCsharp { 0% { width: 0%; } 100% { width: 70%; } }
 @keyframes animateGit { 0% { width: 0%; } 100% { width: 80%; } }
 
-/* Radial Professional Skills */
+
 .radial-bars {
     width: 100%;
     display: flex;
@@ -476,7 +475,7 @@ body::after {
     font-size: 14px;
 }
 
-/* Portfolio Section */
+
 .portfolio-section {
     padding: 80px 10%;
 }
@@ -578,7 +577,7 @@ body::after {
     height: 100%;
 }
 
-/* Experience Section */
+
 .experience-section {
     padding: 80px 10%;
 }
@@ -633,7 +632,7 @@ body::after {
     color: #a0aec0;
 }
 
-/* CV Section */
+
 .cv-section {
     padding: 80px 10%;
     text-align: center;
@@ -712,7 +711,7 @@ body::after {
     box-shadow: 0 0 30px #00f0ff !important;
 }
 
-/* Contact Section */
+
 .contact {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -811,7 +810,7 @@ body::after {
     box-shadow: 0 0 5px #0ef, 0 0 25px #0ef;
 }
 
-/* Footer & Scroll */
+
 .last-text p {
     width: 100%;
     text-align: center;
